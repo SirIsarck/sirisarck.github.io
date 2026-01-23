@@ -10,4 +10,9 @@ SunChain is a decentralized energy and finance network focused on connecting com
 
 By merging DePIN infrastructure with DeFi token models, SunChain enables transparent energy generation, real-time payments, and sustainable economic incentives for users and operators.
 
+## Contact: 
+Twitter: @SirIsarck 
+Telegram: @Ishaqkdw
+Email: ishaqisah013@gmail.com
+
 
