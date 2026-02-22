@@ -12,7 +12,7 @@ By merging DePIN infrastructure with DeFi token models, SunChain enables transpa
 
 ## Contact: 
 Twitter: @SirIsarck 
-Telegram: @Ishaqkdw
+Telegram: @SirIsarck
 Email: ishaqisah013@gmail.com
 
 
